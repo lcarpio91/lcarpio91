@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lcarpio91
 - 👀 I’m interested in Cybersecurity, ethical hacking and coding
-- 🌱 I’m currently learning Cybersecurity
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything as long as I can learn something
 - 📫 How to reach me email at carpiotekk@gmail.com
 
